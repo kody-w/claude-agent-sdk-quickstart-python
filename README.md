@@ -1,3 +1,7 @@
+<!-- retired-notice:start -->
+> **Archived.** No longer maintained; kept public for reference.
+<!-- retired-notice:end -->
+
 # Anthropic Agent SDK - Quick Getting Started - Python
 
 A quick start tutorial project demonstrating how to use the Anthropic Claude Agent SDK to build interactive AI agents with custom tools and conversational interfaces.
